@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Finance Pro",
+  "description": "A feature-rich personal finance app powered by Gemini for receipt scanning, voice-to-budget, predictive cash flow, and gamified savings goals.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
